@@ -8,3 +8,4 @@ Part 2: Git and github. Learning to work with Git.  I'm going to start making br
 Part 3: Create-room uses min/max as to help draw tunnels in any direction.
 Part 3:	Pay attention to the variables you are using. Draw that crap out.
 Part 3: Min / max dimensions help, literally drawing edge cases for out-of-bounds rooms
+Part 4: Future Gits will use either feature \ fix \ or chore
